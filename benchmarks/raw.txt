@@ -1,0 +1,330 @@
+Enter:
+* 1 if you want to play against the computer, 
+* 2 if you want to guess words, 
+* 3 if you want to have the PC guess your word.
+* 4 if you want to test the random algorith
+* 5 if you want to test the naive algorithm
+* 6 if you want to test the advanced algorithm.
+* 7 if you want to test all algorithms
+* 8 if you want the AI to solve an unknown word.
+>7
+2357/57570 (4.09%). Estimated time left: 3 mins, 55 secs
+4161/57570 (7.23%). Estimated time left: 4 mins, 22 secs
+6217/57570 (10.80%). Estimated time left: 4 mins, 11 secs
+8239/57570 (14.31%). Estimated time left: 4 mins, 2 secs
+10277/57570 (17.85%). Estimated time left: 3 mins, 52 secs
+12150/57570 (21.10%). Estimated time left: 3 mins, 46 secs
+14511/57570 (25.21%). Estimated time left: 3 mins, 30 secs
+16633/57570 (28.89%). Estimated time left: 3 mins, 19 secs
+18846/57570 (32.74%). Estimated time left: 3 mins, 7 secs
+20916/57570 (36.33%). Estimated time left: 2 mins, 57 secs
+22746/57570 (39.51%). Estimated time left: 2 mins, 50 secs
+25056/57570 (43.52%). Estimated time left: 2 mins, 37 secs
+27017/57570 (46.93%). Estimated time left: 2 mins, 29 secs
+29046/57570 (50.45%). Estimated time left: 2 mins, 19 secs
+31305/57570 (54.38%). Estimated time left: 2 mins, 7 secs
+33653/57570 (58.46%). Estimated time left: 1 mins, 55 secs
+35963/57570 (62.47%). Estimated time left: 1 mins, 43 secs
+37949/57570 (65.92%). Estimated time left: 1 mins, 34 secs
+40053/57570 (69.57%). Estimated time left: 1 mins, 24 secs
+42300/57570 (73.48%). Estimated time left: 1 mins, 13 secs
+44262/57570 (76.88%). Estimated time left: 1 mins, 4 secs
+46429/57570 (80.65%). Estimated time left: 54 secs
+48800/57570 (84.77%). Estimated time left: 42 secs
+50841/57570 (88.31%). Estimated time left: 32 secs
+52659/57570 (91.47%). Estimated time left: 24 secs
+54529/57570 (94.72%). Estimated time left: 15 secs
+56510/57570 (98.16%). Estimated time left: 6 secs
+Ran the random choice algorithm 10 times for each word (5757) words. The word was guessed in 2891.0350008685077 turns on average. The worst game was 5757 turns and the best game was 1. The algorithm took 274.67 seconds to run.
+651/57570 (1.13%). Estimated time left: 14 mins, 34 secs
+1359/57570 (2.36%). Estimated time left: 13 mins, 49 secs
+1992/57570 (3.46%). Estimated time left: 13 mins, 59 secs
+2661/57570 (4.62%). Estimated time left: 13 mins, 47 secs
+3329/57570 (5.78%). Estimated time left: 13 mins, 36 secs
+3994/57570 (6.94%). Estimated time left: 13 mins, 26 secs
+4675/57570 (8.12%). Estimated time left: 13 mins, 13 secs
+5406/57570 (9.39%). Estimated time left: 12 mins, 53 secs
+6105/57570 (10.60%). Estimated time left: 12 mins, 40 secs
+6746/57570 (11.72%). Estimated time left: 12 mins, 35 secs
+7391/57570 (12.84%). Estimated time left: 12 mins, 28 secs
+8062/57570 (14.00%). Estimated time left: 12 mins, 18 secs
+8760/57570 (15.22%). Estimated time left: 12 mins, 5 secs
+9500/57570 (16.50%). Estimated time left: 11 mins, 50 secs
+10116/57570 (17.57%). Estimated time left: 11 mins, 45 secs
+10870/57570 (18.88%). Estimated time left: 11 mins, 30 secs
+11563/57570 (20.09%). Estimated time left: 11 mins, 18 secs
+12274/57570 (21.32%). Estimated time left: 11 mins, 6 secs
+12934/57570 (22.47%). Estimated time left: 10 mins, 58 secs
+13607/57570 (23.64%). Estimated time left: 10 mins, 48 secs
+14335/57570 (24.90%). Estimated time left: 10 mins, 35 secs
+15039/57570 (26.12%). Estimated time left: 10 mins, 24 secs
+15763/57570 (27.38%). Estimated time left: 10 mins, 12 secs
+16541/57570 (28.73%). Estimated time left: 9 mins, 57 secs
+17311/57570 (30.07%). Estimated time left: 9 mins, 44 secs
+18078/57570 (31.40%). Estimated time left: 9 mins, 30 secs
+18870/57570 (32.78%). Estimated time left: 9 mins, 16 secs
+19592/57570 (34.03%). Estimated time left: 9 mins, 5 secs
+20322/57570 (35.30%). Estimated time left: 8 mins, 54 secs
+20995/57570 (36.47%). Estimated time left: 8 mins, 45 secs
+21646/57570 (37.60%). Estimated time left: 8 mins, 37 secs
+22323/57570 (38.78%). Estimated time left: 8 mins, 28 secs
+23009/57570 (39.97%). Estimated time left: 8 mins, 18 secs
+23662/57570 (41.10%). Estimated time left: 8 mins, 9 secs
+24270/57570 (42.16%). Estimated time left: 8 mins, 3 secs
+24941/57570 (43.32%). Estimated time left: 7 mins, 53 secs
+25531/57570 (44.35%). Estimated time left: 7 mins, 47 secs
+26246/57570 (45.59%). Estimated time left: 7 mins, 36 secs
+26869/57570 (46.67%). Estimated time left: 7 mins, 28 secs
+27559/57570 (47.87%). Estimated time left: 7 mins, 18 secs
+28288/57570 (49.14%). Estimated time left: 7 mins, 7 secs
+29015/57570 (50.40%). Estimated time left: 6 mins, 56 secs
+29753/57570 (51.68%). Estimated time left: 6 mins, 44 secs
+30399/57570 (52.80%). Estimated time left: 6 mins, 35 secs
+31143/57570 (54.10%). Estimated time left: 6 mins, 24 secs
+31877/57570 (55.37%). Estimated time left: 6 mins, 13 secs
+32627/57570 (56.67%). Estimated time left: 6 mins, 1 secs
+33402/57570 (58.02%). Estimated time left: 5 mins, 49 secs
+34134/57570 (59.29%). Estimated time left: 5 mins, 38 secs
+34832/57570 (60.50%). Estimated time left: 5 mins, 28 secs
+35597/57570 (61.83%). Estimated time left: 5 mins, 17 secs
+36329/57570 (63.10%). Estimated time left: 5 mins, 6 secs
+37041/57570 (64.34%). Estimated time left: 4 mins, 55 secs
+37749/57570 (65.57%). Estimated time left: 4 mins, 45 secs
+38400/57570 (66.70%). Estimated time left: 4 mins, 36 secs
+39111/57570 (67.94%). Estimated time left: 4 mins, 26 secs
+39835/57570 (69.19%). Estimated time left: 4 mins, 15 secs
+40631/57570 (70.58%). Estimated time left: 4 mins, 3 secs
+41331/57570 (71.79%). Estimated time left: 3 mins, 53 secs
+41866/57570 (72.72%). Estimated time left: 3 mins, 47 secs
+42562/57570 (73.93%). Estimated time left: 3 mins, 37 secs
+43271/57570 (75.16%). Estimated time left: 3 mins, 26 secs
+44014/57570 (76.45%). Estimated time left: 3 mins, 15 secs
+44708/57570 (77.66%). Estimated time left: 3 mins, 6 secs
+45447/57570 (78.94%). Estimated time left: 2 mins, 55 secs
+46200/57570 (80.25%). Estimated time left: 2 mins, 44 secs
+46958/57570 (81.57%). Estimated time left: 2 mins, 33 secs
+47709/57570 (82.87%). Estimated time left: 2 mins, 22 secs
+48341/57570 (83.97%). Estimated time left: 2 mins, 13 secs
+48859/57570 (84.87%). Estimated time left: 2 mins, 6 secs
+49443/57570 (85.88%). Estimated time left: 1 mins, 58 secs
+49943/57570 (86.75%). Estimated time left: 1 mins, 51 secs
+50507/57570 (87.73%). Estimated time left: 1 mins, 43 secs
+51071/57570 (88.71%). Estimated time left: 1 mins, 35 secs
+51565/57570 (89.57%). Estimated time left: 1 mins, 29 secs
+52164/57570 (90.61%). Estimated time left: 1 mins, 20 secs
+52816/57570 (91.74%). Estimated time left: 1 mins, 10 secs
+53420/57570 (92.79%). Estimated time left: 1 mins, 2 secs
+53986/57570 (93.77%). Estimated time left: 53 secs
+54546/57570 (94.75%). Estimated time left: 45 secs
+55077/57570 (95.67%). Estimated time left: 38 secs
+55648/57570 (96.66%). Estimated time left: 29 secs
+56238/57570 (97.69%). Estimated time left: 20 secs
+56765/57570 (98.60%). Estimated time left: 13 secs
+57336/57570 (99.59%). Estimated time left: 4 secs
+Ran the naive algorithm 10 times for each word (5757) words. The word was guessed in 4.7052457877366685 turns on average. The worst game was 14 turns and the best game was 1. The algorithm took 854.14 seconds to run.
+29/5757 (0.50%). Estimated time left: 33 mins, 16 secs
+56/5757 (0.97%). Estimated time left: 33 mins, 32 secs
+87/5757 (1.51%). Estimated time left: 32 mins, 56 secs
+123/5757 (2.14%). Estimated time left: 30 mins, 57 secs
+147/5757 (2.55%). Estimated time left: 32 mins, 11 secs
+185/5757 (3.21%). Estimated time left: 30 mins, 39 secs
+218/5757 (3.79%). Estimated time left: 30 mins, 10 secs
+256/5757 (4.45%). Estimated time left: 29 mins, 10 secs
+298/5757 (5.18%). Estimated time left: 28 mins, 10 secs
+334/5757 (5.80%). Estimated time left: 27 mins, 44 secs
+356/5757 (6.18%). Estimated time left: 28 mins, 41 secs
+396/5757 (6.88%). Estimated time left: 27 mins, 55 secs
+426/5757 (7.40%). Estimated time left: 27 mins, 51 secs
+458/5757 (7.96%). Estimated time left: 27 mins, 40 secs
+483/5757 (8.39%). Estimated time left: 27 mins, 58 secs
+508/5757 (8.82%). Estimated time left: 28 mins, 15 secs
+549/5757 (9.54%). Estimated time left: 27 mins, 37 secs
+579/5757 (10.06%). Estimated time left: 27 mins, 32 secs
+606/5757 (10.53%). Estimated time left: 27 mins, 37 secs
+638/5757 (11.08%). Estimated time left: 27 mins, 25 secs
+676/5757 (11.74%). Estimated time left: 26 mins, 57 secs
+706/5757 (12.26%). Estimated time left: 26 mins, 50 secs
+744/5757 (12.92%). Estimated time left: 26 mins, 25 secs
+783/5757 (13.60%). Estimated time left: 25 mins, 59 secs
+817/5757 (14.19%). Estimated time left: 25 mins, 45 secs
+847/5757 (14.71%). Estimated time left: 25 mins, 38 secs
+884/5757 (15.36%). Estimated time left: 25 mins, 21 secs
+910/5757 (15.81%). Estimated time left: 25 mins, 26 secs
+948/5757 (16.47%). Estimated time left: 25 mins, 4 secs
+975/5757 (16.94%). Estimated time left: 25 mins, 3 secs
+1008/5757 (17.51%). Estimated time left: 24 mins, 51 secs
+1037/5757 (18.01%). Estimated time left: 24 mins, 47 secs
+1060/5757 (18.41%). Estimated time left: 24 mins, 55 secs
+1091/5757 (18.95%). Estimated time left: 24 mins, 45 secs
+1114/5757 (19.35%). Estimated time left: 24 mins, 54 secs
+1136/5757 (19.73%). Estimated time left: 25 mins, 2 secs
+1164/5757 (20.22%). Estimated time left: 24 mins, 56 secs
+1193/5757 (20.72%). Estimated time left: 24 mins, 48 secs
+1217/5757 (21.14%). Estimated time left: 24 mins, 49 secs
+1247/5757 (21.66%). Estimated time left: 24 mins, 39 secs
+1273/5757 (22.11%). Estimated time left: 24 mins, 36 secs
+1299/5757 (22.56%). Estimated time left: 24 mins, 32 secs
+1330/5757 (23.10%). Estimated time left: 24 mins, 23 secs
+1362/5757 (23.66%). Estimated time left: 24 mins, 10 secs
+1394/5757 (24.21%). Estimated time left: 24 mins
+1420/5757 (24.67%). Estimated time left: 23 mins, 56 secs
+1460/5757 (25.36%). Estimated time left: 23 mins, 36 secs
+1494/5757 (25.95%). Estimated time left: 23 mins, 23 secs
+1526/5757 (26.51%). Estimated time left: 23 mins, 11 secs
+1555/5757 (27.01%). Estimated time left: 23 mins, 3 secs
+1580/5757 (27.44%). Estimated time left: 23 mins
+1612/5757 (28.00%). Estimated time left: 22 mins, 48 secs
+1627/5757 (28.26%). Estimated time left: 23 mins, 6 secs
+1657/5757 (28.78%). Estimated time left: 22 mins, 57 secs
+1688/5757 (29.32%). Estimated time left: 22 mins, 48 secs
+1713/5757 (29.76%). Estimated time left: 22 mins, 44 secs
+1751/5757 (30.42%). Estimated time left: 22 mins, 26 secs
+1782/5757 (30.95%). Estimated time left: 22 mins, 14 secs
+1806/5757 (31.37%). Estimated time left: 22 mins, 13 secs
+1834/5757 (31.86%). Estimated time left: 22 mins, 6 secs
+1861/5757 (32.33%). Estimated time left: 21 mins, 58 secs
+1883/5757 (32.71%). Estimated time left: 21 mins, 58 secs
+1909/5757 (33.16%). Estimated time left: 21 mins, 51 secs
+1933/5757 (33.58%). Estimated time left: 21 mins, 46 secs
+1957/5757 (33.99%). Estimated time left: 21 mins, 43 secs
+1982/5757 (34.43%). Estimated time left: 21 mins, 38 secs
+2007/5757 (34.86%). Estimated time left: 21 mins, 33 secs
+2033/5757 (35.31%). Estimated time left: 21 mins, 26 secs
+2071/5757 (35.97%). Estimated time left: 21 mins, 9 secs
+2099/5757 (36.46%). Estimated time left: 21 mins
+2124/5757 (36.89%). Estimated time left: 20 mins, 55 secs
+2154/5757 (37.42%). Estimated time left: 20 mins, 44 secs
+2180/5757 (37.87%). Estimated time left: 20 mins, 36 secs
+2207/5757 (38.34%). Estimated time left: 20 mins, 28 secs
+2226/5757 (38.67%). Estimated time left: 20 mins, 29 secs
+2246/5757 (39.01%). Estimated time left: 20 mins, 28 secs
+2280/5757 (39.60%). Estimated time left: 20 mins, 14 secs
+2308/5757 (40.09%). Estimated time left: 20 mins, 5 secs
+2338/5757 (40.61%). Estimated time left: 19 mins, 53 secs
+2370/5757 (41.17%). Estimated time left: 19 mins, 40 secs
+2397/5757 (41.64%). Estimated time left: 19 mins, 31 secs
+2426/5757 (42.14%). Estimated time left: 19 mins, 22 secs
+2458/5757 (42.70%). Estimated time left: 19 mins, 9 secs
+2495/5757 (43.34%). Estimated time left: 18 mins, 53 secs
+2522/5757 (43.81%). Estimated time left: 18 mins, 45 secs
+2545/5757 (44.21%). Estimated time left: 18 mins, 40 secs
+2580/5757 (44.82%). Estimated time left: 18 mins, 25 secs
+2608/5757 (45.30%). Estimated time left: 18 mins, 16 secs
+2635/5757 (45.77%). Estimated time left: 18 mins, 7 secs
+2665/5757 (46.29%). Estimated time left: 17 mins, 56 secs
+2697/5757 (46.85%). Estimated time left: 17 mins, 45 secs
+2722/5757 (47.28%). Estimated time left: 17 mins, 38 secs
+2750/5757 (47.77%). Estimated time left: 17 mins, 28 secs
+2792/5757 (48.50%). Estimated time left: 17 mins, 10 secs
+2819/5757 (48.97%). Estimated time left: 17 mins, 1 secs
+2850/5757 (49.50%). Estimated time left: 16 mins, 50 secs
+2880/5757 (50.03%). Estimated time left: 16 mins, 39 secs
+2915/5757 (50.63%). Estimated time left: 16 mins, 25 secs
+2943/5757 (51.12%). Estimated time left: 16 mins, 16 secs
+2975/5757 (51.68%). Estimated time left: 16 mins, 3 secs
+3007/5757 (52.23%). Estimated time left: 15 mins, 52 secs
+3034/5757 (52.70%). Estimated time left: 15 mins, 43 secs
+3058/5757 (53.12%). Estimated time left: 15 mins, 37 secs
+3090/5757 (53.67%). Estimated time left: 15 mins, 25 secs
+3112/5757 (54.06%). Estimated time left: 15 mins, 19 secs
+3128/5757 (54.33%). Estimated time left: 15 mins, 21 secs
+3160/5757 (54.89%). Estimated time left: 15 mins, 9 secs
+3187/5757 (55.36%). Estimated time left: 15 mins, 1 secs
+3213/5757 (55.81%). Estimated time left: 14 mins, 52 secs
+3233/5757 (56.16%). Estimated time left: 14 mins, 48 secs
+3261/5757 (56.64%). Estimated time left: 14 mins, 38 secs
+3292/5757 (57.18%). Estimated time left: 14 mins, 27 secs
+3315/5757 (57.58%). Estimated time left: 14 mins, 20 secs
+3340/5757 (58.02%). Estimated time left: 14 mins, 13 secs
+3360/5757 (58.36%). Estimated time left: 14 mins, 9 secs
+3378/5757 (58.68%). Estimated time left: 14 mins, 6 secs
+3406/5757 (59.16%). Estimated time left: 13 mins, 56 secs
+3432/5757 (59.61%). Estimated time left: 13 mins, 47 secs
+3455/5757 (60.01%). Estimated time left: 13 mins, 40 secs
+3487/5757 (60.57%). Estimated time left: 13 mins, 28 secs
+3516/5757 (61.07%). Estimated time left: 13 mins, 17 secs
+3546/5757 (61.59%). Estimated time left: 13 mins, 6 secs
+3570/5757 (62.01%). Estimated time left: 12 mins, 59 secs
+3596/5757 (62.46%). Estimated time left: 12 mins, 50 secs
+3622/5757 (62.91%). Estimated time left: 12 mins, 41 secs
+3655/5757 (63.49%). Estimated time left: 12 mins, 29 secs
+3682/5757 (63.96%). Estimated time left: 12 mins, 19 secs
+3713/5757 (64.50%). Estimated time left: 12 mins, 8 secs
+3736/5757 (64.89%). Estimated time left: 12 mins, 1 secs
+3765/5757 (65.40%). Estimated time left: 11 mins, 50 secs
+3792/5757 (65.87%). Estimated time left: 11 mins, 40 secs
+3825/5757 (66.44%). Estimated time left: 11 mins, 28 secs
+3852/5757 (66.91%). Estimated time left: 11 mins, 18 secs
+3888/5757 (67.54%). Estimated time left: 11 mins, 4 secs
+3914/5757 (67.99%). Estimated time left: 10 mins, 56 secs
+3940/5757 (68.44%). Estimated time left: 10 mins, 47 secs
+3967/5757 (68.91%). Estimated time left: 10 mins, 37 secs
+3992/5757 (69.34%). Estimated time left: 10 mins, 29 secs
+4023/5757 (69.88%). Estimated time left: 10 mins, 17 secs
+4055/5757 (70.44%). Estimated time left: 10 mins, 5 secs
+4073/5757 (70.75%). Estimated time left: 10 mins, 1 secs
+4099/5757 (71.20%). Estimated time left: 9 mins, 52 secs
+4124/5757 (71.63%). Estimated time left: 9 mins, 44 secs
+4148/5757 (72.05%). Estimated time left: 9 mins, 36 secs
+4167/5757 (72.38%). Estimated time left: 9 mins, 31 secs
+4195/5757 (72.87%). Estimated time left: 9 mins, 21 secs
+4220/5757 (73.30%). Estimated time left: 9 mins, 12 secs
+4249/5757 (73.81%). Estimated time left: 9 mins, 2 secs
+4275/5757 (74.26%). Estimated time left: 8 mins, 52 secs
+4302/5757 (74.73%). Estimated time left: 8 mins, 43 secs
+4326/5757 (75.14%). Estimated time left: 8 mins, 35 secs
+4352/5757 (75.59%). Estimated time left: 8 mins, 26 secs
+4376/5757 (76.01%). Estimated time left: 8 mins, 18 secs
+4403/5757 (76.48%). Estimated time left: 8 mins, 8 secs
+4438/5757 (77.09%). Estimated time left: 7 mins, 55 secs
+4458/5757 (77.44%). Estimated time left: 7 mins, 49 secs
+4481/5757 (77.84%). Estimated time left: 7 mins, 41 secs
+4515/5757 (78.43%). Estimated time left: 7 mins, 28 secs
+4544/5757 (78.93%). Estimated time left: 7 mins, 18 secs
+4581/5757 (79.57%). Estimated time left: 7 mins, 4 secs
+4609/5757 (80.06%). Estimated time left: 6 mins, 54 secs
+4643/5757 (80.65%). Estimated time left: 6 mins, 41 secs
+4666/5757 (81.05%). Estimated time left: 6 mins, 33 secs
+4706/5757 (81.74%). Estimated time left: 6 mins, 18 secs
+4735/5757 (82.25%). Estimated time left: 6 mins, 8 secs
+4755/5757 (82.60%). Estimated time left: 6 mins, 1 secs
+4783/5757 (83.08%). Estimated time left: 5 mins, 51 secs
+4812/5757 (83.59%). Estimated time left: 5 mins, 41 secs
+4847/5757 (84.19%). Estimated time left: 5 mins, 28 secs
+4871/5757 (84.61%). Estimated time left: 5 mins, 19 secs
+4897/5757 (85.06%). Estimated time left: 5 mins, 10 secs
+4915/5757 (85.37%). Estimated time left: 5 mins, 4 secs
+4939/5757 (85.79%). Estimated time left: 4 mins, 56 secs
+4971/5757 (86.35%). Estimated time left: 4 mins, 44 secs
+4993/5757 (86.73%). Estimated time left: 4 mins, 37 secs
+5019/5757 (87.18%). Estimated time left: 4 mins, 27 secs
+5058/5757 (87.86%). Estimated time left: 4 mins, 13 secs
+5077/5757 (88.19%). Estimated time left: 4 mins, 7 secs
+5095/5757 (88.50%). Estimated time left: 4 mins, 1 secs
+5122/5757 (88.97%). Estimated time left: 3 mins, 51 secs
+5144/5757 (89.35%). Estimated time left: 3 mins, 43 secs
+5173/5757 (89.86%). Estimated time left: 3 mins, 32 secs
+5203/5757 (90.38%). Estimated time left: 3 mins, 21 secs
+5231/5757 (90.86%). Estimated time left: 3 mins, 11 secs
+5252/5757 (91.23%). Estimated time left: 3 mins, 4 secs
+5271/5757 (91.56%). Estimated time left: 2 mins, 57 secs
+5302/5757 (92.10%). Estimated time left: 2 mins, 46 secs
+5329/5757 (92.57%). Estimated time left: 2 mins, 36 secs
+5366/5757 (93.21%). Estimated time left: 2 mins, 22 secs
+5388/5757 (93.59%). Estimated time left: 2 mins, 15 secs
+5420/5757 (94.15%). Estimated time left: 2 mins, 3 secs
+5435/5757 (94.41%). Estimated time left: 1 mins, 58 secs
+5466/5757 (94.95%). Estimated time left: 1 mins, 46 secs
+5491/5757 (95.38%). Estimated time left: 1 mins, 37 secs
+5525/5757 (95.97%). Estimated time left: 1 mins, 25 secs
+5554/5757 (96.47%). Estimated time left: 1 mins, 14 secs
+5592/5757 (97.13%). Estimated time left: 1 mins
+5631/5757 (97.81%). Estimated time left: 46 secs
+5650/5757 (98.14%). Estimated time left: 39 secs
+5675/5757 (98.58%). Estimated time left: 30 secs
+5695/5757 (98.92%). Estimated time left: 23 secs
+5718/5757 (99.32%). Estimated time left: 14 secs
+5735/5757 (99.62%). Estimated time left: 8 secs
+5755/5757 (99.97%). Estimated time left: 1 secs
+Ran the naive algorithm 1 times for each word (5757) words. The word was guessed in 4.09466736147299 turns on average. The worst game was 12 turns and the best game was 1. The time taken was 2108.31 seconds.
+It took us 3237.774692296982 seconds to test all algorithms
